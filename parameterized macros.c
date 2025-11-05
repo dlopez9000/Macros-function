@@ -1,9 +1,3 @@
-// Paramterized Macros
-// This program defines and tests three parameterized macros.
-// Blake Williford 
-// C Programming Language 
-// 1Nov2025
-
 #include <stdio.h>
 
 // (a)check(x, y, n)
@@ -26,3 +20,4 @@ int main(void) {
 
     return 0;
 }
+
